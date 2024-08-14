@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Data Structures & Algorithms.<br><br>🌱 I’m presently learning AI/ML<br><br>🤝 I’m looking for collaboration with web development, Data Science, AI/ML<br><br>📫 You can contact me at chimobi.ejiofor@gmail.com<br><br>📄 See my portfolio  [here](https://chima-ejiofor.vercel.app/)<br><br>⚡ looking forward to learning and contributing in something new
+🔭 I’m currently working on Data Structures & Algorithms.<br><br>🌱 I’m presently learning AI/ML<br><br>🤝 I’m looking for collaboration with web development, Data Science, AI/ML<br><br>📫 You can contact me at chimobi.ejiofor@gmail.com<br><br>📄 See my portfolio  [here](https://port-virid-phi.vercel.app/)<br><br>⚡ looking forward to learning and contributing in something new
 
 
 ## 🌐 Socials:
